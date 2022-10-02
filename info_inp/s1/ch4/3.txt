@@ -1,0 +1,4 @@
+L.reverse() -> agit sur la liste
+L[::-1] -> "renvoie" une version modifiée de la liste sans modifier l'originale
+
+Meme chose avec sort et sorted ( on le remarque car les premières sont des méthodes )

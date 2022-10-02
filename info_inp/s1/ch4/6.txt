@@ -1,0 +1,22 @@
+#### Exo 4.6
+
+Prédict :
+* str
+* tuple
+* str
+* "555"
+* int
+* list
+* ["5","5","5"]
+* list
+* [5,5,5]
+* "555" (-)
+* tuple -> int
+* 15
+* float
+* 15.0
+* tuple
+* ("5","5","5")
+* tuple
+* (5,5,5)
+* erreur
