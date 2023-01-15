@@ -27,3 +27,11 @@ L=[[1 ,2] ,[3 ,4]]
 M=[[5 ,6] ,[7 ,8]] # la derniere sous liste n'est pas assigné à une variable, elle ne peut donc avoir un id partagé
 print(h(L,M))
 print(M)
+
+
+[['2', '6', '3', '6', '3'],
+ ['4', '1', '5', '4', '2'],
+ ['5', '4', '2', '4', '1'],
+ ['6', '1', '5', '2', '3'], 
+ ['4', '1', '5', '1', '2'], 
+ ['5', '4', '2', '4', '1']]
